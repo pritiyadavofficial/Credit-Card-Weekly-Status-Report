@@ -3,10 +3,13 @@
 ## Project Background
 Welcome to the Credit Card Weekly Status Report repository. This portfolio project showcases an advanced Power BI solution built to convert disparate transactional logs and customer records into a cohesive, interactive business intelligence suite. By exploring spending habits, transaction volumes, and demographic details, this tool empowers portfolio managers to make agile, data-backed decisions.
 
-## The Business Challenge
+## The Business Problem Statement
 The core obstacle was the fragmentation of existing data. With customer profiles living in one dataset and transaction logs in another, leadership struggled to map spending behaviors to specific demographic segments. The goal was to engineer a unified, dynamic reporting environment. This tool needed to calculate complex week-over-week (WoW) financial growth while allowing stakeholders to slice the data instantly by income, age, gender, and timeframe.
 
 ## Technical Implementation & DAX Engineering
+
+> Use File `Dashboard Report.pbix`
+
 To build a highly responsive and accurate visualization suite, I executed a strict data modeling and transformation workflow:
 
 * **Relational Data Modeling:** Forged a unified schema by linking the separate customer and transaction datasets via their primary keys.
@@ -20,8 +23,13 @@ The final product features two specialized, cross-filtering dashboards designed 
 ### 1. The Customer Demographics View
 This report zeroes in on the user base. It features dedicated slicers for Income Group, Age Group, and Gender, giving stakeholders an immediate, interactive breakdown of customer financial standing and profile distribution.
 
+![](Dash1.png)
+
+
 ### 2. The Transaction & Operations View
 This page focuses heavily on purchasing mechanics. Users can filter by Week, Gender, and Spending Category to monitor exactly where capital is flowing. It also provides a detailed breakdown of preferred payment architectures, including Swipe, Chip, and Online transactions.
+
+![](Dash2.png)
 
 ## Strategic Business Recommendations
 Leveraging the interactive capabilities of these dashboards reveals several key growth opportunities for the credit card portfolio:
