@@ -32,6 +32,9 @@ This page focuses heavily on purchasing mechanics. Users can filter by Week, Gen
 ![](Dash2.png)
 
 ## Strategic Business Recommendations
+
+> Use File `Report.pdf`
+
 Leveraging the interactive capabilities of these dashboards reveals several key growth opportunities for the credit card portfolio:
 
 * **Double Down on High-Value Demographics:** The visualizations prove that the lion's share of transaction volume originates from specific education and income brackets. Acquisition and retention budgets should be heavily weighted toward these segments.
